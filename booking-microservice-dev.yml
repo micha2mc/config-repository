@@ -1,2 +1,9 @@
 booking:
   property: Booking Profile DEV
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    generate-ddl: true
