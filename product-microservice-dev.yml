@@ -8,4 +8,4 @@ spring:
       host: localhost
 
 app:
-  testProp: Property of test updated
+  testProp: Property of test updated Micha
