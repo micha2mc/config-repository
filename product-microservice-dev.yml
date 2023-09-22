@@ -4,4 +4,5 @@ product:
 spring:
   data:
     mongodb:
-      port:
+      port: 27017
+      host: localhost
