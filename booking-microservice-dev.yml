@@ -3,7 +3,7 @@ booking:
 
 spring:
   datasource:
-    url:
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/bookingdb
   jpa:
     hibernate:
       ddl-auto: update
