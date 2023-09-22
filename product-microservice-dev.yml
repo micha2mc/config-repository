@@ -1,2 +1,8 @@
 product:
   property: Product Profile DEV
+
+spring:
+  data:
+    mongodb:
+      port: 27017
+      host: localhost
